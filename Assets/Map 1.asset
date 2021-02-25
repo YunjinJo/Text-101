@@ -13,3 +13,6 @@ MonoBehaviour:
   m_Name: Map 1
   m_EditorClassIdentifier: 
   storyText: I'm in Map 1
+  nextStates:
+  - {fileID: 11400000, guid: 216a1f835ec445b4f9dee186e5da2cf4, type: 2}
+  - {fileID: 11400000, guid: 0c7f4afcdd8e97f4ca7513322eb5e33d, type: 2}
