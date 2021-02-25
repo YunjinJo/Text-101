@@ -35,4 +35,6 @@ MonoBehaviour:
 
     2. Quick scrounge for weapons, then mad sprint
     to the nearest airship.'
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 9108d1bfd462bc14b9a3817a4f57e3b7, type: 2}
+  - {fileID: 11400000, guid: 6e9a63be7f797454a87ac7cd6f9ce0ef, type: 2}
